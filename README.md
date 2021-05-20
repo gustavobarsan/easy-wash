@@ -1,13 +1,13 @@
 
 
 <div align="center">
-<img src="/imagemreadme/titulo.svg" alt="titulo" width="300" height="127"></img>
+<img src="/imagemreadme/titulo.svg" alt="titulo" width="300" height="127">
+<a href="https://easy-wash-server.herokuapp.com/"> </img>
 </div>
 <hr>
 <br>
 <br>
 
-<a href="https://easy-wash-server.herokuapp.com/"> 
 <div align="center">
 <h3 align="center">Desktop</h3>
 <img src="/imagemreadme/Desktop.gif" alt="demo-desktop" width="700" height="425"></img>
