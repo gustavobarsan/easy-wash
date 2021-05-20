@@ -1,4 +1,4 @@
-https://easy-wash-server.herokuapp.com/
+https://easy-wash.vercel.app/
 
 <div align="center">
 <img src="/imagemreadme/titulo.svg" alt="titulo" width="300" height="127">
